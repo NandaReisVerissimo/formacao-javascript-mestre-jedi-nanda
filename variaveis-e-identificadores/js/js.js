@@ -1,6 +1,6 @@
 //as variáveis devem ser ser declaradas por letras ou _ ou $.. nunca inicie variável por números
 /*o javascript é case sensitive... ele identifica caracteres maiúsculos e minúsculos, então variável idade é != de IDADE*/
-let nome = "Prof. Madison";
+/*let nome = "Prof. Madison";
 let idade = 23
 let pretensaoSalarial = 3277.22
 let valeRefeicao = true
@@ -21,4 +21,4 @@ console.log ("Nome completo:" + nomeCompleto)
 console.log ("valor:" + numeroString + " - " + numeroStringInv)
 console.log ("Tipo1:" + typeof stringVar)
 console.log ("Tipo2:" + typeof numeroVar)
-console.log ("Tamanho String:" + stringVar.length)
+console.log ("Tamanho String:" + stringVar.length)*/
